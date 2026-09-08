@@ -1,1 +1,1 @@
-# SammySensor-absence-policy-finder
+# SammySensors-absence-policy-finder
